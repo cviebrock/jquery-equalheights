@@ -1,8 +1,8 @@
 {
 	"name"        : "cviebrock/jQuery-equalHeights",
 	"description" : "Equalize heights of containers via jQuery, with additional options.",
-	"version"     : "1.0.0",
-	"time"        : "2013-02-04",
+	"version"     : "1.0.1",
+	"time"        : "2013-02-13",
 	"license"     : "MIT",
 
 	"authors": [

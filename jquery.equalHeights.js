@@ -1,6 +1,6 @@
 /*
- * jQuery-equal-Heights
- * https://github.com/cviebrock/jQuery-equalHeights
+ * jquery-equalheights
+ * https://github.com/cviebrock/jquery-equalheights
  * Colin Viebrock <colin@viebrock.ca>
  */
 

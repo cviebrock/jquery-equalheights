@@ -1,12 +1,19 @@
-# jQuery-equalHeights
+# jquery-equalHeights
 
 Equalize heights of containers via jQuery, with additional options.
+
+
+## Install with Bower
+
+```
+bower install jquery-equalheights
+```
 
 
 ## Usage
 
 ```js
-$(object).equalHeights([options]);
+$(objects).equalHeights([options]);
 ```
 
 

@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 1.1 - 24-Sep-2013
+## Version 1.1.0 - 24-Sep-2013
 
 - added `bower.json` and fixed up packaging
 

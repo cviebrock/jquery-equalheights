@@ -10,5 +10,9 @@
     "jquery": ">=1.9 <2.0.0"
   },
   "main": "jquery.equalHeights.js",
-  "homepage": "https://github.com/cviebrock/jquery-equalheights"
+  "homepage": "https://github.com/cviebrock/jquery-equalheights",
+  "ignore": [
+    ".semver",
+    "build.sh"
+  ]
 }

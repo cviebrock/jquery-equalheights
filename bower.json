@@ -1,7 +1,7 @@
 {
   "name": "jquery-equalheights",
   "description": "Equalize heights of containers via jQuery, with additional options.",
-  "version": "1.1.0",
+  "version": "1.2.2",
   "repository": {
     "type": "git",
     "url": "git@github.com:cviebrock/jquery-equalheights.git"

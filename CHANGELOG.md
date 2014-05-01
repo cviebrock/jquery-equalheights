@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.2.2 - 01-May-2014
+
+- fix version number in `bower.json`
+
+
 ## Version 1.2.1 - 29-Apr-2014
 
 - fix `bower.json` to ignore some files on build

@@ -2,6 +2,7 @@
 
 Equalize heights of containers via jQuery, with additional options.
 
+[![Bower version](https://badge.fury.io/bo/jquery-equalheights.svg)](http://badge.fury.io/bo/jquery-equalheights)
 
 ## Install with Bower
 
